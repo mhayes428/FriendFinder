@@ -1,7 +1,7 @@
 let friends = [
     {
         "name": "Devin",
-        "photo": "https://fortunedotcom.files.wordpress.com/2018/07/gettyimages-961697338.jpg",
+        "photo": "",
         "scores": [
             5,
             1,
@@ -17,7 +17,7 @@ let friends = [
     },
     {
         "name": "Marc",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg/220px-Steve_Jobs_Headshot_2010-CROP2.jpg",
+        "photo": "",
         "scores": [
             1,
             4,
@@ -47,7 +47,7 @@ let friends = [
         ]
     }, {
         "name": "Steven",
-        "photo": "https://pbs.twimg.com/profile_images/834869747007234049/nFhOfRVo_400x400.jpg",
+        "photo": "",
         "scores": [
             5,
             3,
@@ -62,7 +62,7 @@ let friends = [
         ]
     }, {
         "name": "Paul",
-        "photo": "https://www.wykop.pl/cdn/c3397993/link_PL4AmvwrA5bzw9XSuSxiwjwAuMq6fEy3,w300h223.jpg",
+        "photo": "",
         "scores": [
             1,
             4,
