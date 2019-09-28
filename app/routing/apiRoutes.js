@@ -1,4 +1,4 @@
-const friends = require('../data/friends.js');
+const friends = require('/data/friends.js');
 
 const routes = (app) => {
 
