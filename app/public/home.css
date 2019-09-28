@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    background-color: gray !important;
+    color: gainsboro;
+}
+
+.horizontal {
+    background-color: rgb(19, 60, 126) !important;
+}
+
+.submit {
+    background-color: gray !important;
+}
+
+.link {
+    color: rgb(19, 60, 126) !important;
+    font-weight: bolder;
+}
